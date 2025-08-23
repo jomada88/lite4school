@@ -1,5 +1,5 @@
 # Litecoin-for-universities
-Litecoin questions - you have to know why!
+Litecoin questions - you have to know why!!!
 
 1.There is more number of litecoins than number of bitcoin (around 4 times more - 84 000 000 to 21 000 000) - is it true?
 
