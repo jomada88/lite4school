@@ -21,19 +21,3 @@ litecoin questions school
 
 10.Litecoin is very long in market so there is a lot of already supported places - is it true?
 
-
------------------------
-todo
------------------------
-
-
-*Similarities and differences regarding point 2
--amount of gold and silver in the world compared to bitcoin and litecoin
--weight when traveling with gold compared to the weight of the transaction, take into account time and cost
-
-*Existing API for deploy solution
-
---------------------
-bitcoin problem sometimes (probably halving) very high price for transfer
-no such cases in litecoin, analysis to do, find exact date
--------------------
