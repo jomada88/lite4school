@@ -152,4 +152,7 @@ Today we had a conference call, showing a Litecoin transfer. The client was spee
 I've got pdf with new requirements (49 pages). I will send you in 1 hour. Please analyze it all until friday. Good day!
 ---
 I've got pdf with new requirements (83 pages). I will send you today evening. Best Regards!
+---
+Hi all. I've got pdf with new requirements for Litecoin. I will send you soon. Best Regards!
+
 
